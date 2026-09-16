@@ -63,4 +63,4 @@ group :test do
   
 end
 
-  gem 'json', '~> 2.3.0' 
+  gem 'json', '~> 3.0.2' 
